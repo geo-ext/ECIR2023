@@ -20,6 +20,5 @@ nav_order: 5
  
 <span style="font-size:20px;"> **IMPORTANT**: Please include between brackets the type of submission (full; short and oral; short and poster; demo) in the paper title.
  
-<a href="[https://www.google.com/](https://easychair.org/my/conference?conf=geoext2023)" style="color: pink; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
  
 <span style="font-size:20px;"> Each manuscript will be peer-reviewed by at least two program committee members, following the single-blind paradigm. Accepted papers will be included in an open-access proceedings volume of **CEUR Workshop Proceedings**, indexed by both **Scopus** and **DBLP**.
