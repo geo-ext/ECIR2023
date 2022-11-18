@@ -17,6 +17,8 @@ nav_order: 7
 
 * <span style="font-size:20px;"><Strong>Matthias Hagen</Strong>, FSU Jena, Germany
           
+* <span style="font-size:20px;"><Strong>Krzysztof Janowicz</Strong>, Universität Wien, Austria
+          
 * <span style="font-size:20px;"><Strong>Christopher B. Jones</Strong>, Cardiff University, UK
 
 * <span style="font-size:20px;"><Strong>Nicolás José Fernández Martínez</Strong>, University of Jaén, Spain
