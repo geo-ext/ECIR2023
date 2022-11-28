@@ -12,6 +12,8 @@ The workshop welcomes contributions in all topics related to geographic informat
  * <span style="font-size:20px;">Document geocoding
 
 * <span style="font-size:20px;">Toponym recognition and resolution
+  
+* <span style="font-size:20px;">Toponym matching
 
  * <span style="font-size:20px;"> Method generalizability (regions, languages, data sources)
 
@@ -42,4 +44,6 @@ The workshop welcomes contributions in all topics related to geographic informat
  * <span style="font-size:20px;"> Standards or unified interfaces for system development
   
   * <span style="font-size:20px;"> Novel applications of geographic information in texts
+  
+* <span style="font-size:20px;">   Analysing and processing of geotagged social media
 
