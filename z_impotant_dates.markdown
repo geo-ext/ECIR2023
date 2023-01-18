@@ -11,7 +11,7 @@ nav_order: 6
 
 <span style="font-size:20px;"><strong>Camera ready</strong>: March 15th, 2023
 
-<span style="font-size:20px;"><strong>Workshop day</strong>: April 2nd, 2023
+<span style="font-size:20px;"><strong>Workshop day</strong>: April 6th ~~April 2nd~~, 2023
 
 <span style="font-size:20px;"><strong>Conference days</strong>: April 3rd-6th, 2023
 
