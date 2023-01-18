@@ -7,9 +7,9 @@ nav_order: 6
 
 <span style="font-size:20px;"> <strong>Submission deadline</strong>: February 5th, 2023
 
-<span style="font-size:20px;"><strong>Notification of acceptance</strong>: February 26th, 2023 --March 5th, 2023--
+<span style="font-size:20px;"><strong>Notification of acceptance</strong>: February 26th, 2023 ~~March 5th, 2023~~
 
-<span style="font-size:20px;"><strong>Camera ready</strong>: March 6th, 2023 --March 15th, 2023-- 
+<span style="font-size:20px;"><strong>Camera ready</strong>: March 6th, 2023 ~~March 15th, 2023~~ 
 
 <span style="font-size:20px;"><strong>Workshop day</strong>: April 6th, 2023 ~~April 2nd, 2023~~
 
