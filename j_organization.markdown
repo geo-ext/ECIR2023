@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organizing
+title: Chairs
 permalink: /organization/
 nav_order: 2
 ---
