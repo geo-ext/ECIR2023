@@ -9,8 +9,7 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
 
 Timing | Content
 --- | ---
-09:00<br>
-09:05 | Welcome Message
+09:00<br>09:05 | Welcome Message
 Row 2, Column 1 | Row 2, Column 2
 Row 3, Column 1 | <ul><li>item1</li><br><li>item2</li></ul> 
 Row 4, Column 1 | Row 4, Column 2
