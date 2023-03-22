@@ -6,17 +6,6 @@ nav_order: 9
 ---
 The workshop will be held in Dublin, Ireland, with support for remote attendance, on April 2, 2023, 09:00-13:00 GMT. The workshop program is structured as follows.
 
-
-Timing | Content
---- | ---
-09:00<br>09:05 | **Welcome Message**
-09:05<br>09:50  | **Keynote Talk** on "Extracting Geographic Information from Text: Blind alleys and missing questions" <br>  Prof. Dr. Ross Purves from University of Zurich (Switzerland) 
-09:50<br>10:35  | **Paper Session I**</br> <ul> <li>09:50 - 10:05 (10 mins + 5 mins Q&A) In-presence Talk </br> Extracting Geographic Information from Text: Blind alleys and missing questions </br>**Ludovic Moncla**, Mauro Gaio </li> <li>item2</li> </ul> 
-Row 4, Column 1 | **Coffee Break**
-Row 5, Column 1 | **Paper Session II**<ul><li>A</li><li>B</li></ul><ul><li>C</li></ul>
-Row 6, Column 1 | **Open Discussions**
-Row 7, Column 1 | **Closing Message**
-
 <table>
   <tbody>
     <tr>
@@ -25,15 +14,16 @@ Row 7, Column 1 | **Closing Message**
     </tr>
     <tr>
       <td>09:00</br>09:05</td>
-      <td align="center">Welcome Message</td>
+      <td align="center"><strong>Welcome Message</strong></td>
     </tr>
     <tr>
-      <td>col 2 is</td>
-      <td align="center">Extracting Geographic Information from Text: Blind alleys and missing questions</td>
+      <td>09:50</br>10:35</td>
+      <td align="center"><strong>Keynote Talk</strong> on “Extracting Geographic Information from Text: Blind alleys and missing questions”
+         </br> Prof. Dr. Ross Purves from University of Zurich (Switzerland)</td>
     </tr>
     <tr>
       <td>zebra stripes</td>
-      <td align="left">Paper Session I
+      <td align="left"><strong>Paper Session I</strong>
         <ul> 
           <li> 09:50 - 10:05 (10 mins + 5 mins Q&A) In-presence Talk
               </br> Python library for geoparsing and Geocoding French Texts 
@@ -47,18 +37,44 @@ Row 7, Column 1 | **Closing Message**
               </br> Geocoding at Web-scale - Challenges And Opportunities
               </br><strong>Mastura Farzana</strong>, Tobias Hecking 
           </li> 
+         </ul>  
+         </td>
+    </tr>
+    <tr>
+      <td> 10:35</br>11:05</td>
+      <td align="center"><strong>Coffee Break</strong></td>
+    </tr>
+    <tr>
+      <td>11:05</br>12:05</td>
+      <td align="left"><strong>Paper Session II</strong>
+        <ul> 
+          <li> 11:05 - 11:20 (10 mins + 5 mins Q&A) In-presence Talk
+              </br> The Koja web mapping application for context-sensitive Natural language spatial querying
+              </br><strong>Ludovic Moncla</strong>, Mauro Gaio 
+          </li> 
+          <li> 11:20 - 11:35 (10 mins + 5 mins Q&A) In-presence Talk
+              </br>Evaluating the Similarity of Location-based Corpora Identified in Reddit Comments  
+              </br><strong>Cillian Berragan</strong>, Alex Singleton, Alessia Calafiore, Jeremy Morley
+          </li> 
+          <li> 11:35- 11:50 (10 mins + 5 mins Q&A) In-presence Talk
+              </br> Syntactical text analysis to disambiguate between Twitter users’ in-situ and remote location
+              </br><strong>Helen Ngonidzashe Serere</strong>, Bernd Resch 
+          </li> 
+              <li> 11:50 - 12:05 (10 mins + 5 mins Q&A) In-presence Talk
+              </br> Extracting Orientation Relations between Geo-Political Entities from their Wikipedia text
+              </br><strong>Nitin Ramrakhiyani</strong>, Vasudeva Varma, Girish Palshikar. 
+          </li> 
 
          </ul>  
          </td>
     </tr>
     <tr>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-      <td align="center">See the list</td>
+      <td> 12:05</br>12:55</td>
+      <td align="center"><strong>Open Discussions</strong></td>
+    </tr>
+    <tr>
+      <td> 12:55</br>13:00</td>
+      <td align="center"><strong>Closing Message</strong></td>
     </tr>
   </tbody>
 </table>
