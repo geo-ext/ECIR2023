@@ -5,6 +5,7 @@ permalink: /program/
 nav_order: 9
 ---
 # Workshop Program
+    <section id="program" class="wow fadeInUp section-with-bg">
 
       <div class="container-fluid">
         <div class="section-header">
@@ -113,3 +114,4 @@ nav_order: 9
           </div>
         </div>
       </div>
+    </section>
