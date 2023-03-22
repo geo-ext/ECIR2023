@@ -56,7 +56,7 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
         <ul> 
           <li> 11:05 - 11:20 (10 mins + 5 mins Q&A)
               <br> The Koja web mapping application for context-sensitive Natural language spatial querying (Demo)
-              <br><strong>Ludovic Moncla</strong>, Mauro Gaio 
+              <br><strong>Niloofar Aflaki</strong>, Kristin Stock, Christopher. B Jones, Hans Guesgen, Yukio Fukuzawa,Jeremy Morley
                In-presence
           </li> 
           <li> 11:20 - 11:35 (10 mins + 5 mins Q&A)
