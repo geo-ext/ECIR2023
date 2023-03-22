@@ -58,7 +58,6 @@ table th {
 </style>
 
 <div class="container">
-  <h1>Workshop Program</h1>
 
   <h2>Session 1: [Topic]</h2>
 
