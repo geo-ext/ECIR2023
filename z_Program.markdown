@@ -24,12 +24,12 @@ Row 7, Column 1 | **Closing Message**
       <th align="center">Are</th>
     </tr>
     <tr>
-      <td>col 3 is</td>
-      <td align="center">right-aligned</td>
+      <td>09:00<br>09:05</td>
+      <td align="center">**Welcome Message**</td>
     </tr>
     <tr>
-      <td>col 2 is</td>
-      <td align="center">centered</td>
+      <td>09:05<br>09:50 </td>
+      <td align="center">Keynote Talk</td>
     </tr>
     <tr>
       <td>zebra stripes</td>
