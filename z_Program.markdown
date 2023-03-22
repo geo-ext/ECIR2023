@@ -17,8 +17,6 @@ Row 5, Column 1 | **Paper Session II**<ul><li>A</li><li>B</li></ul><ul><li>C</li
 Row 6, Column 1 | **Open Discussions**
 Row 7, Column 1 | **Closing Message**
 
-
-
               <table>
                   <thead>
                   <tr>
@@ -114,5 +112,6 @@ Row 7, Column 1 | **Closing Message**
                   </tr>
                   </tbody>
               </table>
+
 
 
