@@ -33,7 +33,7 @@ Row 7, Column 1 | **Closing Message**
     </tr>
     <tr>
       <td>zebra stripes</td>
-      <td align="center">Paper Session I <ul> <li>09:50 - 10:05 (10 mins + 5 mins Q&A) In-presence Talk </br> Extracting Geographic Information from Text: Blind alleys and missing questions </br>**Ludovic Moncla**, Mauro Gaio </li> <li>item2</li> </ul>  </td>
+      <td align="left">Paper Session I <ul> <li>09:50 - 10:05 (10 mins + 5 mins Q&A) In-presence Talk </br> Extracting Geographic Information from Text: Blind alleys and missing questions </br>**Ludovic Moncla**, Mauro Gaio </li> <li>item2</li> </ul>  </td>
     </tr>
     <tr>
       <td>
