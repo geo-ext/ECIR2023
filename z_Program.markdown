@@ -4,6 +4,9 @@ title: Program
 permalink: /program/
 nav_order: 9
 ---
+The workshop will take place in presence in Dublin, Ireland, with support for remote attendance, on April 2, 2023, 09:00-13:00 GMT. The workshop program is structured as follows.
+
+
 ### Welcome Message
 
 ### Keynote Talk
