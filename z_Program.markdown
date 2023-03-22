@@ -9,15 +9,13 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
 | -------- | -------- |
 | Row 1, Column 1 | Row 1, Column 2 |
 | Row 2, Column 1 | Row 2, Column 2 |
-| Row 3, Column 1 | 
-- Item 1  
-- Item 2  
-- Item 3 |
+| Row 3, Column 1 | - Item 1  \n- Item 2  \n- Item 3 |
 | Row 4, Column 1 | Row 4, Column 2 |
 | Row 5, Column 1 | Row 5, Column 2 |
 | Row 6, Column 1 | Row 6, Column 2 |
 | Row 7, Column 1 | Row 7, Column 2 |
 | Row 8, Column 1 | Row 8, Column 2 |
+
 
 
 ### Welcome Message
