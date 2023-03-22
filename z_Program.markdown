@@ -7,9 +7,10 @@ nav_order: 9
 The workshop will be held in Dublin, Ireland, with support for remote attendance, on April 2, 2023, 09:00-13:00 GMT. The workshop program is structured as follows.
 
 
-Column 1 | Column 2
+Timing | Content
 --- | ---
-Row 1, Column 1 | Row 1, Column 2
+09:00<br>
+09:05 | Welcome Message
 Row 2, Column 1 | Row 2, Column 2
 Row 3, Column 1 | <ul><li>item1</li><br><li>item2</li></ul> 
 Row 4, Column 1 | Row 4, Column 2
