@@ -4,11 +4,11 @@ title: Program
 permalink: /program/
 nav_order: 9
 ---
-## Welcome Message
+### Welcome Message
 
-## Keynote Talk
+### Keynote Talk
 
-## Paper Session I 
+### Paper Session I 
 
 |             |                                                                   |
 |-------------|-------------------------------------------------------------------|
@@ -16,15 +16,15 @@ nav_order: 9
 | 9:30-10:00  | **Title of Presentation 2**<br>by Author 3, Author 4<br>*Online/In-person* |
 | 10:00-10:30 | **Title of Presentation 3**<br>by Author 5, Author 6<br>*Online/In-person* |
 
-## Coffee Break
+### Coffee Break
 
-## Paper Session II
+### Paper Session II
 
 |             |                                                                   |
 |-------------|-------------------------------------------------------------------|
 | 11:00-11:30 | **Title of Presentation 4**<br>by Author 7, Author 8<br>*Online/In-person* |
 | 11:30-12:00 | **Title of Presentation 5**<br>by Author 9, Author 10<br>*Online/In-person* |
 
-## Open Discussions
+### Open Discussions
 
-## Closing Message
+### Closing Message
