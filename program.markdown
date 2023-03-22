@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PC
+title: Program Committee
 permalink: /program_committee/
 nav_order: 7
 ---
