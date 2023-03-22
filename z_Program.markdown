@@ -1,15 +1,8 @@
-
 ---
 layout: page
 title: Prpgram
 permalink: /program/
 nav_order: 9
----
-
----
-title: Workshop Program: [Report Title]
-author: [Reporter Name]
-date: [Time]
 ---
 
 # Workshop Program: [Report Title]
