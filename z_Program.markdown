@@ -17,38 +17,9 @@ Row 5, Column 1 | **Paper Session II**<ul><li>A</li><li>B</li></ul><ul><li>C</li
 Row 6, Column 1 | **Open Discussions**
 Row 7, Column 1 | **Closing Message**
 
-<table>
-  <tbody>
-    <tr>
-      <th>Tables</th>
-      <th align="center">Are</th>
-    </tr>
-    <tr>
-      <td>09:00<br>09:05</td>
-      <td align="center">**Welcome Message**</td>
-    </tr>
-    <tr>
-      <td>09:05<br>09:50 </td>
-      <td align="center">Keynote Talk</td>
-    </tr>
-    <tr>
-      <td>zebra stripes</td>
-      <td align="center">are neat</td>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li>item1</li>
-          <li>item2</li>
-        </ul>
-      </td>
-      <td align="center">See the list</td>
-    </tr>
-  </tbody>
-</table>
 
 
-              <table class="table">
+              <table>
                   <thead>
                   <tr>
                       <th scope="col" class="time" style="min-width: 100px;">Timing</th>
