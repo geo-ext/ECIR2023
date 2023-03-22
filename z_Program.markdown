@@ -13,7 +13,7 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
       <th align="center">Content</th>
     </tr>
     <tr>
-      <td>09:00</br>09:05</td>
+      <td>09:00<br>09:05</td>
       <td align="center"><strong>Welcome Message</strong></td>
     </tr>
     <tr>
