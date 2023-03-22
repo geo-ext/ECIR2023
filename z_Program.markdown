@@ -21,7 +21,7 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
       <td>09:05<br>09:50</td>
       <td align="left"><strong>Keynote Talk</strong>
                <br>  (40 mins + 5 mins Q&A)
-               <br>  Extracting Geographic Information from Text: Blind alleys and missing questions (Talk)
+               <br>  Extracting Geographic Information from Text: Blind alleys and missing questions
          <br> <strong>Prof. Dr. Ross Purves</strong> from University of Zurich (Switzerland)</td>
     </tr>
     <tr>
@@ -36,7 +36,7 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
           <li> 10:05 - 10:20 (10 mins + 5 mins Q&A)
               <br>Extracting Toponyms from OpenStreetMap: A Cross-linguistic perspective  (Talk)  
               <br><strong>Francesco-Alessio Ursini</strong>, Giuseppe Samo 
-             <br> In-presence
+            
           </li> 
           <li> 10:20 - 10:35 (10 mins + 5 mins Q&A)
               <br> Geocoding at Web-scale - Challenges And Opportunities  (Talk)  
@@ -56,7 +56,7 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
         <ul> 
           <li> 11:05 - 11:20 (10 mins + 5 mins Q&A)
               <br> The Koja web mapping application for context-sensitive Natural language spatial querying (Demo)
-              <br><strong>Niloofar Aflaki</strong>, Kristin Stock, Christopher. B Jones, Hans Guesgen, Yukio Fukuzawa,Jeremy Morley
+              <br><strong>Niloofar Aflaki</strong>, Kristin Stock, Christopher. B Jones, Hans Guesgen, Yukio Fukuzawa, Jeremy Morley
                <br> In-presence
           </li> 
           <li> 11:20 - 11:35 (10 mins + 5 mins Q&A)
@@ -67,7 +67,7 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
           <li> 11:35- 11:50 (10 mins + 5 mins Q&A)
               <br> Syntactical text analysis to disambiguate between Twitter users’ in-situ and remote location  (Talk)  
               <br><strong>Helen Ngonidzashe Serere</strong>, Bernd Resch
-               <br> In-presence
+               
           </li> 
               <li> 11:50 - 12:05 (10 mins + 5 mins Q&A)
               <br> Extracting Orientation Relations between Geo-Political Entities from their Wikipedia text  (Talk)  
