@@ -28,17 +28,20 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
       <td>09:50<br>10:35</td>
       <td align="left"><strong>Paper Session I</strong>
         <ul> 
-          <li> 09:50 - 10:05 (10 mins + 5 mins Q&A) In-presence Demo
+          <li> 09:50 - 10:05 (10 mins + 5 mins Q&A) 
               <br> Python library for geoparsing and Geocoding French Texts 
               <br><strong>Ludovic Moncla</strong>, Mauro Gaio 
+              <br> Demo (In-presence)
           </li> 
-          <li> 10:05 - 10:20 (10 mins + 5 mins Q&A) In-presence Talk
+          <li> 10:05 - 10:20 (10 mins + 5 mins Q&A)
               <br>Extracting Toponyms from OpenStreetMap: A Cross-linguistic perspective 
               <br><strong>Francesco-Alessio Ursini</strong>, Giuseppe Samo 
+             <br> Talk (In-presence)
           </li> 
-          <li> 10:20 - 10:35 (10 mins + 5 mins Q&A) In-presence Talk
+          <li> 10:20 - 10:35 (10 mins + 5 mins Q&A)
               <br> Geocoding at Web-scale - Challenges And Opportunities
               <br><strong>Mastura Farzana</strong>, Tobias Hecking 
+              <br> Talk (In-presence)
           </li> 
          </ul>  
          </td>
@@ -54,19 +57,22 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
           <li> 11:05 - 11:20 (10 mins + 5 mins Q&A) In-presence Demo
               <br> The Koja web mapping application for context-sensitive Natural language spatial querying
               <br><strong>Ludovic Moncla</strong>, Mauro Gaio 
+               Demo (In-presence)
           </li> 
-          <li> 11:20 - 11:35 (10 mins + 5 mins Q&A) In-presence Talk
+          <li> 11:20 - 11:35 (10 mins + 5 mins Q&A)
               <br>Evaluating the Similarity of Location-based Corpora Identified in Reddit Comments  
               <br><strong>Cillian Berragan</strong>, Alex Singleton, Alessia Calafiore, Jeremy Morley
+              <br> Talk (In-presence)
           </li> 
-          <li> 11:35- 11:50 (10 mins + 5 mins Q&A) In-presence Talk
+          <li> 11:35- 11:50 (10 mins + 5 mins Q&A)
               <br> Syntactical text analysis to disambiguate between Twitter users’ in-situ and remote location
-              <br><strong>Helen Ngonidzashe Serere</strong>, Bernd Resch 
+              <br><strong>Helen Ngonidzashe Serere</strong>, Bernd Resch
+               <br> Talk (In-presence)
           </li> 
               <li> 11:50 - 12:05 (10 mins + 5 mins Q&A)
               <br> Extracting Orientation Relations between Geo-Political Entities from their Wikipedia text
-              <br><strong>Nitin Ramrakhiyani</strong>, Vasudeva Varma, Girish Palshikar. 
-                <br>  Talk (Remote)
+              <br><strong>Nitin Ramrakhiyani</strong>, Vasudeva Varma, Girish Palshikar
+                <br> Talk (Remote)
           </li> 
          </ul>  
          </td>
