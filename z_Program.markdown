@@ -28,7 +28,7 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
       <td>09:50<br>10:35</td>
       <td align="left"><strong>Paper Session I</strong>
         <ul> 
-          <li> 09:50 - 10:05 (10 mins + 5 mins Q&A) In-presence Talk
+          <li> 09:50 - 10:05 (10 mins + 5 mins Q&A) In-presence Demo
               <br> Python library for geoparsing and Geocoding French Texts 
               <br><strong>Ludovic Moncla</strong>, Mauro Gaio 
           </li> 
@@ -51,7 +51,7 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
       <td>11:05<br>12:05</td>
       <td align="left"><strong>Paper Session II</strong>
         <ul> 
-          <li> 11:05 - 11:20 (10 mins + 5 mins Q&A) In-presence Talk
+          <li> 11:05 - 11:20 (10 mins + 5 mins Q&A) In-presence Demo
               <br> The Koja web mapping application for context-sensitive Natural language spatial querying
               <br><strong>Ludovic Moncla</strong>, Mauro Gaio 
           </li> 
@@ -63,9 +63,10 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
               <br> Syntactical text analysis to disambiguate between Twitter users’ in-situ and remote location
               <br><strong>Helen Ngonidzashe Serere</strong>, Bernd Resch 
           </li> 
-              <li> 11:50 - 12:05 (10 mins + 5 mins Q&A) In-presence Talk
+              <li> 11:50 - 12:05 (10 mins + 5 mins Q&A)
               <br> Extracting Orientation Relations between Geo-Political Entities from their Wikipedia text
               <br><strong>Nitin Ramrakhiyani</strong>, Vasudeva Varma, Girish Palshikar. 
+                <br>  Talk (Remote)
           </li> 
          </ul>  
          </td>
