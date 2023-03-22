@@ -5,9 +5,6 @@ permalink: /program/
 nav_order: 9
 ---
 
-# Workshop Program: [Report Title]
-
-Reported by [Reporter Name] on [Time]
 
 ## Session 1: [Topic]
 
