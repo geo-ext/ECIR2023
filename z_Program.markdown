@@ -64,7 +64,6 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
               </br> Extracting Orientation Relations between Geo-Political Entities from their Wikipedia text
               </br><strong>Nitin Ramrakhiyani</strong>, Vasudeva Varma, Girish Palshikar. 
           </li> 
-
          </ul>  
          </td>
     </tr>
