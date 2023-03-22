@@ -29,19 +29,25 @@ Row 7, Column 1 | **Closing Message**
     </tr>
     <tr>
       <td>col 2 is</td>
-      <td align="center">centered</td>
+      <td align="center">Extracting Geographic Information from Text: Blind alleys and missing questions</td>
     </tr>
     <tr>
       <td>zebra stripes</td>
       <td align="left">Paper Session I
         <ul> 
           <li> 09:50 - 10:05 (10 mins + 5 mins Q&A) In-presence Talk
-              </br> Extracting Geographic Information from Text: Blind alleys and missing questions 
+              </br> Python library for geoparsing and Geocoding French Texts 
               </br><strong>Ludovic Moncla</strong>, Mauro Gaio 
           </li> 
-          <li>
-            </br>Python library for geoparsing and Geocoding French Texts</br>  <strong>Ludovic Moncla</strong>, Mauro Gaio
+          <li> 10:05 - 10:20 (10 mins + 5 mins Q&A) In-presence Talk
+              </br>Extracting Toponyms from OpenStreetMap: A Cross-linguistic perspective 
+              </br><strong>Francesco-Alessio Ursini</strong>, Giuseppe Samo 
           </li> 
+          <li> 10:20 - 10:35 (10 mins + 5 mins Q&A) In-presence Talk
+              </br> Geocoding at Web-scale - Challenges And Opportunities
+              </br><strong>Mastura Farzana</strong>, Tobias Hecking 
+          </li> 
+
          </ul>  
          </td>
     </tr>
