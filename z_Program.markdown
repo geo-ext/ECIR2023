@@ -17,12 +17,12 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
       <td align="center"><strong>Welcome Message</strong></td>
     </tr>
     <tr>
-      <td>09:50</br>10:35</td>
+      <td>09:05</br>09:50</td>
       <td align="left"><strong>Keynote Talk</strong> on “Extracting Geographic Information from Text: Blind alleys and missing questions”
          </br> <strong>Prof. Dr. Ross Purves</strong> from University of Zurich (Switzerland)</td>
     </tr>
     <tr>
-      <td>zebra stripes</td>
+      <td>09:50</br>10:35</td>
       <td align="left"><strong>Paper Session I</strong>
         <ul> 
           <li> 09:50 - 10:05 (10 mins + 5 mins Q&A) In-presence Talk
