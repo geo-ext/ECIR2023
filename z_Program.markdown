@@ -13,6 +13,6 @@ Timing | Content
 09:05<br>09:50  | **Keynote Talk** on "Extracting Geographic Information from Text: Blind alleys and missing questions" <br>  Prof. Dr. Ross Purves from University of Zurich (Switzerland) 
 09:50<br>10:35  | **Paper Session I**</br> <ul> <li>09:50 - 10:05 (10 mins + 5 mins Q&A) In-presence Talk </br> Extracting Geographic Information from Text: Blind alleys and missing questions </br>**Ludovic Moncla**, Mauro Gaio </li> <li>item2</li> </ul> 
 Row 4, Column 1 | **Coffee Break**
-Row 5, Column 1 | **Paper Session II**
+Row 5, Column 1 | **Paper Session II**<ul><li>A</li><li>B</li></ul><ul><li>C</li></ul>
 Row 6, Column 1 | **Open Discussions**
 Row 7, Column 1 | **Closing Message**
