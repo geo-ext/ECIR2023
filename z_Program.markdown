@@ -7,7 +7,8 @@ nav_order: 9
 # Workshop Program
 
 ## Session 1
-|     |                              |
+
+|-----|------------------------------|
 
 | 9:00-9:30   | **Title of Presentation 1**<br/>by Author 1, Author 2<br/>*Online/In-person* |
 | 9:30-10:00 | **Title of Presentation 2**<br/>by Author 3, Author 4<br/>*Online/In-person* |
