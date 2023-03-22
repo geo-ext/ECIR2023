@@ -69,11 +69,11 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
     </tr>
     <tr>
       <td> 12:05</br>12:55</td>
-      <td align="center"><strong>Open Discussions</strong></td>
+      <td align="left"><strong>Open Discussions</strong></td>
     </tr>
     <tr>
       <td> 12:55</br>13:00</td>
-      <td align="center"><strong>Closing Message</strong></td>
+      <td align="left"><strong>Closing Message</strong></td>
     </tr>
   </tbody>
 </table>
