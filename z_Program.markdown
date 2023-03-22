@@ -5,21 +5,21 @@ permalink: /program/
 nav_order: 9
 ---
 <span style="font-size:20px;"> 
-The workshop will be held in Dublin, Ireland, with support for remote attendance, on April 2, 2023, 09:00-13:00 GMT. The workshop program is structured as follows.</span> 
+The workshop will be held in Dublin, Ireland, with support for remote attendance, on April 2, 2023, 09:00-13:00 (GMT). The workshop program is structured as follows.</span> 
 
 <table>
   <tbody>
     <tr>
       <th>Timing</th>
-      <th align="center">Content</th>
+      <th align="left">Content</th>
     </tr>
     <tr>
       <td>09:00<br>09:05</td>
-      <td align="center"><strong>Welcome Message</strong></td>
+      <td align="left"><strong>Welcome Message</strong></td>
     </tr>
     <tr>
       <td>09:05<br>09:50</td>
-      <td align="center"><strong>Keynote Talk</strong>
+      <td align="left"><strong>Keynote Talk</strong>
                <br>  (40 mins + 5 mins Q&A) In-presence Talk
                <br>  Extracting Geographic Information from Text: Blind alleys and missing questions
          <br> <strong>Prof. Dr. Ross Purves</strong> from University of Zurich (Switzerland)</td>
@@ -45,7 +45,7 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
     </tr>
     <tr>
       <td> 10:35<br>11:05</td>
-      <td align="center"><strong>Coffee Break</strong></td>
+      <td align="left"><strong>Coffee Break</strong></td>
     </tr>
     <tr>
       <td>11:05<br>12:05</td>
@@ -72,11 +72,11 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
     </tr>
     <tr>
       <td> 12:05<br>12:55</td>
-      <td align="center"><strong>Open Discussions</strong></td>
+      <td align="left"><strong>Open Discussions</strong></td>
     </tr>
     <tr>
       <td> 12:55<br>13:00</td>
-      <td align="center"><strong>Closing Message</strong></td>
+      <td align="left"><strong>Closing Message</strong></td>
     </tr>
   </tbody>
 </table>
