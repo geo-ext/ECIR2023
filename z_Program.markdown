@@ -66,6 +66,7 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
           <li> 11:35- 11:50 (10 mins + 5 mins Q&A)
               <br> Syntactical text analysis to disambiguate between Twitter users’ in-situ and remote location  (Talk)  
               <br><strong>Helen Ngonidzashe Serere</strong>, Bernd Resch
+             <br> In-presence
           </li> 
               <li> 11:50 - 12:05 (10 mins + 5 mins Q&A)
               <br> Extracting Orientation Relations between Geo-Political Entities from their Wikipedia text  (Talk)  
