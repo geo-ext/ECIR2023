@@ -35,7 +35,8 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
           </li> 
           <li> 10:05 - 10:20 (10 mins + 5 mins Q&A)
               <br>Extracting Toponyms from OpenStreetMap: A Cross-linguistic perspective  (Talk)  
-              <br><strong>Francesco-Alessio Ursini</strong>, Giuseppe Samo
+              <br><strong>Francesco-Alessio Ursini</strong>, <strong>Giuseppe Samo</strong>
+              <br>Remote
           </li> 
           <li> 10:20 - 10:35 (10 mins + 5 mins Q&A)
               <br> Geocoding at Web-scale - Challenges And Opportunities  (Talk)  
