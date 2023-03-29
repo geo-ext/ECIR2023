@@ -12,6 +12,8 @@ nav_order: 1
 
 ## to be held at the [45th European Conference on Information Retrieval (ECIR 2023)](https://ecir2023.org/) in Dublin, April 2, 2023 (with support for remote attendance)
 
+This is a <span style="background-color: yellow; color: black;">highlighted sentence</span> in Markdown.
+
 
 <span style="font-size:24px;"> A special issue entitled [Geographic Information Extraction from Texts](https://www.sciencedirect.com/journal/information-processing-and-management/about/call-for-papers#geographic-information-extraction-from-texts) on Information Processing & Management (IF:7.4) is open for submission till September 1st, 2023.
 
