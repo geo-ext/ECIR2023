@@ -6,7 +6,6 @@ nav_order: 9
 ---
 
 <span style="background-color: yellow; font-size:24px; color: black;">A special issue entitled [Geographic Information Extraction from Texts](https://www.sciencedirect.com/journal/information-processing-and-management/about/call-for-papers#geographic-information-extraction-from-texts) on Information Processing & Management (IF:7.4) is open for submission till September 1st, 2023.</span>
-\
 
 <span style="font-size:20px;"> 
 The workshop will be held in Dublin, Ireland, with support for remote attendance, on April 2, 2023, 09:00-13:00 (GMT). The workshop program is structured as follows.</span> 
