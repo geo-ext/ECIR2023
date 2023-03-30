@@ -81,7 +81,7 @@ The workshop will be held in Dublin, Ireland, with support for remote attendance
     </tr>
     <tr>
       <td> 12:05<br>12:55</td>
-      <td align="left"><a href="https://example.com](https://cryptpad.fr/pad/#/3/pad/edit/fb410a9c2011643748c27ebeee7b886c/"><strong>Open Discussions </strong></a></td>
+      <td align="left"><a href="https://cryptpad.fr/pad/#/3/pad/edit/fb410a9c2011643748c27ebeee7b886c/"><strong>Open Discussions </strong></a></td>
     </tr>
     <tr>
       <td> 12:55<br>13:00</td>
