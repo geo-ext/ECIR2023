@@ -12,7 +12,13 @@ nav_order: 1
 
 ## held at the [45th European Conference on Information Retrieval (ECIR 2023)](https://ecir2023.org/) in Dublin, April 2, 2023
 
+
 <span style="background-color: yellow; font-size:24px; color: black;">A special issue entitled [Geographic Information Extraction from Texts](https://www.sciencedirect.com/journal/information-processing-and-management/about/call-for-papers#geographic-information-extraction-from-texts) on Information Processing & Management (IF:7.4) is open for submission till September 1st, 2023.</span>
+
+<p align="center">
+<a>
+ <img src="{{site.baseurl}}/figure/GeoExT.jpg" width="500"></a>
+</p>
 
 <span style="font-size:24px;">Want to keep in touch? Click [here](https://cryptpad.fr/sheet/#/2/sheet/edit/KLe0nPIMg+JaLn12Bysr+Mfn/p/)</span>
 
