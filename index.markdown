@@ -17,7 +17,7 @@ nav_order: 1
 
 <p align="center">
 <a>
- <img src="{{site.baseurl}}/figure/GeoExT.jpg" width="500"></a>
+ <img src="{{site.baseurl}}/figure/GeoExT.jpg" width="700"></a>
 </p>
 
 <span style="font-size:24px;">Want to keep in touch? Click [here](https://cryptpad.fr/sheet/#/2/sheet/edit/KLe0nPIMg+JaLn12Bysr+Mfn/p/)</span>
