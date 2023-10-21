@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Keynote
-permalink: /keynote/
+permalink: keynote/
 nav_order: 3
 ---
 
