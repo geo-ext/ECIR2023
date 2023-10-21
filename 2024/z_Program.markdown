@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program
-permalink: /program/
+permalink: /2024/program/
 nav_order: 9
 ---
 
