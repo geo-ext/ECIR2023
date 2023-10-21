@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: GeoExT ECIR'23 Workshop
+title: GeoExT Workshop
 subtitle: to be held at the 45th European Conference on Information Retrieval (ECIR 2023) in Dublin, April 2, 2023 (with support for remote attendance)
 #email: geoext@dlr.de
 #description: >- # this means to ignore newlines until "baseurl:"
