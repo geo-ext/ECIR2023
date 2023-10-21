@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program Committee
-permalink: /program_committee/
+permalink: /2023/program_committee/
 nav_order: 7
 ---
 
