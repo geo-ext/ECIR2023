@@ -19,7 +19,7 @@ nav_order: 1
 
 <p align="center">
 <a>
- <img src="{{site.baseurl}}/figure/GeoExT.jpg" width="600"></a>
+ <img src="figure/GeoExT.jpg" width="600"></a>
 </p>
 
 
