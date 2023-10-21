@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Keynote
-permalink: ECIR2023/keynote/
+permalink: /ECIR2023/keynote/
 nav_order: 3
 ---
 
