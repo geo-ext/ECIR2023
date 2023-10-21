@@ -1,0 +1,11 @@
+menu:
+  - title: Home
+    url: /2023/
+  - title: Scope
+    url: /2023/scope/
+  - title: Key Dates
+    url: /2023/key-dates/
+  - title: Organizers
+    url: /2023/organizers/
+styles:
+  - styles-2023.css
