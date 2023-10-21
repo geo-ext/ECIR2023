@@ -34,6 +34,6 @@ nav_order: 1
 
 <p align="center">
 <a>
- <img src="{{site.baseurl}}/figure/isprs_logo.jpg" width="120"></a>
+ <img src="figure/isprs_logo.jpg" width="120"></a>
 </p>
 
