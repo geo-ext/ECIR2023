@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Submission
-permalink: /submission/
+permalink: /2024/submission/
 nav_order: 5
 ---
 
