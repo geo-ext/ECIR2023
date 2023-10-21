@@ -3,6 +3,7 @@ layout: page
 title: Program
 permalink: /2024/program/
 nav_order: 9
+styles: styles-2024.css
 ---
 
 
