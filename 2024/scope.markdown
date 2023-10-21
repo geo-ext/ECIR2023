@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scope
-permalink: /scope/
+permalink: /2024/scope/
 nav_order: 4
 ---
 
