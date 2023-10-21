@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chairs
-permalink: /organization/
+permalink: /2024/organization/
 nav_order: 2
 ---
 <span style="font-size:20px;">  [Xuke Hu](https://scholar.google.de/citations?hl=en&user=xCj17L0AAAAJ&view_op=list_works&sortby=pubdate), German Aerospace Center, Germany </span>
